@@ -17,7 +17,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1bTg1BGuCR4LIHuZOMBBmGPVrI4aF2u4Z/view?usp=sharing](https://drive.google.com/file/d/1bTg1BGuCR4LIHuZOMBBmGPVrI4aF2u4Z/view?usp=sharing)
 
-- ⚡ Fun fact **While Working on Project's.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
