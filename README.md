@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dhanwalkarjay.github.io/_Portfolio_/](https://dhanwalkarjay.github.io/_Portfolio_/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript.**
+- 💬 Ask me about **Web Development.**
 
 - 📫 How to reach me **jaydhanwalkar123@gmail.com**
 
