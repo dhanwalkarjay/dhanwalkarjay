@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jaydhanwalkar123@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/16LT-hANdfvGcVlsjj_BLbIAvi3dIDjiX/view?usp=sharing)
+- 📄 Know about my experiences [Portfolio](https://drive.google.com/file/d/12FpKlzDPii5ylC-N-mJaWitkLliB5sL3/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
