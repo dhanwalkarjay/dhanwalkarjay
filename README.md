@@ -1,5 +1,9 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+
 <h1 align="center">Hi 👋, I'm Jay Dhanwalkar</h1>
 <h3 align="center">"Collaborate, Code, Contribute: My GitHub Journey as a Software Engineer"</h3>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanwalkarjay&label=Profile%20views&color=0e75b6&style=flat" alt="dhanwalkarjay" /> </p>
 
