@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Data Structure's and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://dhanwalkarjay.github.io/_Portfolio_/](https://dhanwalkarjay.github.io/_Portfolio_/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://dhanwalkarjay.github.io/Jay_Dhanwalkar_Portfolio/)
 
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **jaydhanwalkar123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15s2OAcP93s81Y9YucC3QOQDpKz99fz2D/view?usp=sharing](https://drive.google.com/file/d/15s2OAcP93s81Y9YucC3QOQDpKz99fz2D/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/15s2OAcP93s81Y9YucC3QOQDpKz99fz2D/view?usp=sharing](https://drive.google.com/file/d/15s2OAcP93s81Y9YucC3QOQDpKz99fz2D/view?usp=sharing](https://drive.google.com/file/d/1OwcP4wlk2-A137f-UivY_k8Ws8vKriJb/view?usp=drivesdk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
