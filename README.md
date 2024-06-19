@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-- 🌱 I’m currently learning **Data Structure's and Algorithm**
+- 🌱 I’m currently learning **System Design**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://dhanwalkarjay.github.io/Jay_Dhanwalkar_Portfolio/)
 
