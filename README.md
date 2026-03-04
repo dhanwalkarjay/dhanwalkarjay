@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://dhanwalkarjay.github.io/Jay_Dhanwalkar_Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://jay-dhanwalkar-portfolio.vercel.app/)
 
 - 💬 Ask me about **Web Development**
 
