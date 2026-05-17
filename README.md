@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jaydhanwalkar123@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/15s2OAcP93s81Y9YucC3QOQDpKz99fz2D/view?usp=sharing](https://drive.google.com/file/d/15s2OAcP93s81Y9YucC3QOQDpKz99fz2D/view?usp=sharing](https://drive.google.com/file/d/1OwcP4wlk2-A137f-UivY_k8Ws8vKriJb/view?usp=drivesdk))
+- 📄 Know about my experiences [[Resume](https://drive.google.com/file/d/1VLM6EzR9jTLIMS-HMdcX6RBJTPLY5UQL/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
