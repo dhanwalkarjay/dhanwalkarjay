@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://jay-dhanwalkar-portfolio.vercel.app/)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **System Design**
 
 - 📫 How to reach me **jaydhanwalkar123@gmail.com**
 
